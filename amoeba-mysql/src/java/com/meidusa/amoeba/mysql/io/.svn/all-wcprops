@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/994/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/io
+END
+MysqlFramedInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/994/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/io/MysqlFramedInputStream.java
+END
+CompressedInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/913/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/io/CompressedInputStream.java
+END
+MysqlFramingOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/io/MysqlFramingOutputStream.java
+END
+MySqlPacketConstant.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/io/MySqlPacketConstant.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/io/Constants.java
+END

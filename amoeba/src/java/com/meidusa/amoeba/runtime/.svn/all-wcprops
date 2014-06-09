@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/runtime
+END
+Shutdowner.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/runtime/Shutdowner.java
+END
+PriorityShutdownHook.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/runtime/PriorityShutdownHook.java
+END

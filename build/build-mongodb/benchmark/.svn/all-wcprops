@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/923/trunk/build/build-mongodb/benchmark
+END
+find.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/913/trunk/build/build-mongodb/benchmark/find.xml
+END
+context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/923/trunk/build/build-mongodb/benchmark/context.xml
+END
+insert.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/913/trunk/build/build-mongodb/benchmark/insert.xml
+END
+query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/913/trunk/build/build-mongodb/benchmark/query.xml
+END
+objectMap.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/915/trunk/build/build-mongodb/benchmark/objectMap.dtd
+END
+1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/923/trunk/build/build-mongodb/benchmark/1.txt
+END

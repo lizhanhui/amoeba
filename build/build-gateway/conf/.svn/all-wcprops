@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/913/trunk/build/build-gateway/conf
+END
+log4j.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/913/trunk/build/build-gateway/conf/log4j.dtd
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/913/trunk/build/build-gateway/conf/log4j.xml
+END

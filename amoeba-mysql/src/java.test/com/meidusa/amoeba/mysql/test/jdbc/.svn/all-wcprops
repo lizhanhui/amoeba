@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/976/trunk/amoeba-mysql/src/java.test/com/meidusa/amoeba/mysql/test/jdbc
+END
+PreparedStatmentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/976/trunk/amoeba-mysql/src/java.test/com/meidusa/amoeba/mysql/test/jdbc/PreparedStatmentTest.java
+END
+PerformaceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/913/trunk/amoeba-mysql/src/java.test/com/meidusa/amoeba/mysql/test/jdbc/PerformaceTest.java
+END
+TransactionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/913/trunk/amoeba-mysql/src/java.test/com/meidusa/amoeba/mysql/test/jdbc/TransactionTest.java
+END

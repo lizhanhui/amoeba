@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/953/trunk/amoeba-mongodb/src/java/com/meidusa/amoeba/mongodb/net
+END
+MongodbClientConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/953/trunk/amoeba-mongodb/src/java/com/meidusa/amoeba/mongodb/net/MongodbClientConnection.java
+END
+MongodbServerConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/953/trunk/amoeba-mongodb/src/java/com/meidusa/amoeba/mongodb/net/MongodbServerConnectionFactory.java
+END
+AbstractMongodbConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/953/trunk/amoeba-mongodb/src/java/com/meidusa/amoeba/mongodb/net/AbstractMongodbConnection.java
+END
+MongodbServerConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/953/trunk/amoeba-mongodb/src/java/com/meidusa/amoeba/mongodb/net/MongodbServerConnection.java
+END
+MongodbClientConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/953/trunk/amoeba-mongodb/src/java/com/meidusa/amoeba/mongodb/net/MongodbClientConnectionFactory.java
+END

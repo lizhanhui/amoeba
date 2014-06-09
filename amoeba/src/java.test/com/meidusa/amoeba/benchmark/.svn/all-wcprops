@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/985/trunk/amoeba/src/java.test/com/meidusa/amoeba/benchmark
+END
+FileLineData.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/934/trunk/amoeba/src/java.test/com/meidusa/amoeba/benchmark/FileLineData.java
+END
+FileLineRandomData.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/927/trunk/amoeba/src/java.test/com/meidusa/amoeba/benchmark/FileLineRandomData.java
+END
+CmdLineParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/945/trunk/amoeba/src/java.test/com/meidusa/amoeba/benchmark/CmdLineParserTest.java
+END
+RandomData.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/913/trunk/amoeba/src/java.test/com/meidusa/amoeba/benchmark/RandomData.java
+END
+AbstractBenchmarkClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/939/trunk/amoeba/src/java.test/com/meidusa/amoeba/benchmark/AbstractBenchmarkClient.java
+END
+AbstractBenchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/985/trunk/amoeba/src/java.test/com/meidusa/amoeba/benchmark/AbstractBenchmark.java
+END

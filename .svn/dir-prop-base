@@ -1,0 +1,24 @@
+K 10
+svn:ignore
+V 83
+*
+*.gz
+*.zip
+.classpath
+.project
+.settings
+amoeba-mysql*
+bin
+conf
+dist
+logs
+target
+
+K 13
+svn:mergeinfo
+V 122
+/branches/struct_2010-05-24:647-669
+/branches/struct_2010-06-10:675-696
+/branches/struct_2010-11-22:895-909
+/trunk:907-910
+END

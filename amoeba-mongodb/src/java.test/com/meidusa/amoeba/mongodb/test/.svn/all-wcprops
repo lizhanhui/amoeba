@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/985/trunk/amoeba-mongodb/src/java.test/com/meidusa/amoeba/mongodb/test
+END
+MongodbBenchmarkClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/941/trunk/amoeba-mongodb/src/java.test/com/meidusa/amoeba/mongodb/test/MongodbBenchmarkClient.java
+END
+find.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java.test/com/meidusa/amoeba/mongodb/test/find.xml
+END
+TestOGNL.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java.test/com/meidusa/amoeba/mongodb/test/TestOGNL.java
+END
+MongoDBBenchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/985/trunk/amoeba-mongodb/src/java.test/com/meidusa/amoeba/mongodb/test/MongoDBBenchmark.java
+END
+MockClientConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/953/trunk/amoeba-mongodb/src/java.test/com/meidusa/amoeba/mongodb/test/MockClientConnectionFactory.java
+END
+insert.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java.test/com/meidusa/amoeba/mongodb/test/insert.xml
+END
+query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java.test/com/meidusa/amoeba/mongodb/test/query.xml
+END
+OGNLFucntion.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java.test/com/meidusa/amoeba/mongodb/test/OGNLFucntion.java
+END
+sequence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java.test/com/meidusa/amoeba/mongodb/test/sequence.xml
+END
+MockClientConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/953/trunk/amoeba-mongodb/src/java.test/com/meidusa/amoeba/mongodb/test/MockClientConnection.java
+END
+Ognl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java.test/com/meidusa/amoeba/mongodb/test/Ognl.xml
+END

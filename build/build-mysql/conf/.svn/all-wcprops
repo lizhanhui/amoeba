@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/994/trunk/build/build-mysql/conf
+END
+function.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/913/trunk/build/build-mysql/conf/function.dtd
+END
+access_list.conf
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/913/trunk/build/build-mysql/conf/access_list.conf
+END
+rule.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/913/trunk/build/build-mysql/conf/rule.dtd
+END
+functionMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/989/trunk/build/build-mysql/conf/functionMap.xml
+END
+amoeba.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/913/trunk/build/build-mysql/conf/amoeba.xml
+END
+dbserver.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/913/trunk/build/build-mysql/conf/dbserver.dtd
+END
+rule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/994/trunk/build/build-mysql/conf/rule.xml
+END
+log4j.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/913/trunk/build/build-mysql/conf/log4j.dtd
+END
+ruleFunctionMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/913/trunk/build/build-mysql/conf/ruleFunctionMap.xml
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/988/trunk/build/build-mysql/conf/log4j.xml
+END
+dbServers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/994/trunk/build/build-mysql/conf/dbServers.xml
+END
+amoeba.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/913/trunk/build/build-mysql/conf/amoeba.dtd
+END

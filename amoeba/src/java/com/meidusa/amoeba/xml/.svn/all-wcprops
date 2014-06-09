@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/915/trunk/amoeba/src/java/com/meidusa/amoeba/xml
+END
+function.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/xml/function.dtd
+END
+rule.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/xml/rule.dtd
+END
+table.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/xml/table.dtd
+END
+dbserver.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/xml/dbserver.dtd
+END
+objectMap.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/915/trunk/amoeba/src/java/com/meidusa/amoeba/xml/objectMap.dtd
+END
+amoeba.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/xml/amoeba.dtd
+END

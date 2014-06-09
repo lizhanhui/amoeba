@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/986/trunk/amoeba/src/java/com/meidusa/amoeba/heartbeat
+END
+Status.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/heartbeat/Status.java
+END
+HeartbeatDelayed.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/heartbeat/HeartbeatDelayed.java
+END
+HeartbeatManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/986/trunk/amoeba/src/java/com/meidusa/amoeba/heartbeat/HeartbeatManager.java
+END

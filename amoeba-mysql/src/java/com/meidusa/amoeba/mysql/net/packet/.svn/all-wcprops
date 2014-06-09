@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/994/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net/packet
+END
+PreparedStatmentClosePacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net/packet/PreparedStatmentClosePacket.java
+END
+EOFPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net/packet/EOFPacket.java
+END
+OkPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net/packet/OkPacket.java
+END
+PacketUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/913/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net/packet/PacketUtil.java
+END
+CommandPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net/packet/CommandPacket.java
+END
+AuthenticationPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net/packet/AuthenticationPacket.java
+END
+ParameterPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net/packet/ParameterPacket.java
+END
+Scramble323Packet.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/913/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net/packet/Scramble323Packet.java
+END
+BindValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net/packet/BindValue.java
+END
+MysqlPingPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/935/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net/packet/MysqlPingPacket.java
+END
+FieldPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net/packet/FieldPacket.java
+END
+HandshakePacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net/packet/HandshakePacket.java
+END
+OKforPreparedStatementPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net/packet/OKforPreparedStatementPacket.java
+END
+ErrorPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net/packet/ErrorPacket.java
+END
+LongDataPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net/packet/LongDataPacket.java
+END
+BlockedPacketIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net/packet/BlockedPacketIO.java
+END
+MysqlPacketBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/994/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net/packet/MysqlPacketBuffer.java
+END
+RowDataPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net/packet/RowDataPacket.java
+END
+ExecutePacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net/packet/ExecutePacket.java
+END
+AbstractResultPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net/packet/AbstractResultPacket.java
+END
+ResultSetHeaderPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net/packet/ResultSetHeaderPacket.java
+END
+AbstractPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net/packet/AbstractPacket.java
+END
+QueryCommandPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net/packet/QueryCommandPacket.java
+END

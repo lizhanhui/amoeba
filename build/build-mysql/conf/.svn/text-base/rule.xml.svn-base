@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="gbk"?>
+<!DOCTYPE amoeba:rule SYSTEM "rule.dtd">
+
+<amoeba:rule xmlns:amoeba="http://amoeba.meidusa.com/">
+	<tableRule name="TestTable,user,message" schema="test" defaultPools="server1">
+		<!--
+		<rule name="rule1">
+			<parameters>ID</parameters>
+			<expression><![CDATA[ ID <= 1000000]]></expression>
+			<defaultPools>server1</defaultPools>
+			<readPools>server1</readPools>
+			<writePools>server1</writePools>
+		</rule>
+		
+		<rule name="rule2">
+			<parameters>ID</parameters>
+			<expression><![CDATA[ ID between 1000001 and 2000000 ]]></expression>
+			<defaultPools>server2</defaultPools>
+			<writePools>server2</writePools>
+			<readPools>server2</readPools>
+		</rule>
+		
+		<rule name="rule4">
+			<parameters>ID</parameters>
+			<expression><![CDATA[ ID > 20000000 ]]></expression>
+			<defaultPools>server3</defaultPools>
+		</rule>
+		-->
+		<!--
+		<rule name="rule3">
+			<parameters>ID,CREATE_TIME</parameters>
+			<expression><![CDATA[ID>4 or CREATE_TIME between to_date('2008-11-12 00:00:00.0000') and to_date('2008-12-10 00:00:00.0000') ]]></expression>
+			<defaultPools>server3</defaultPools>
+		</rule>
+		-->
+	</tableRule>
+	
+	 <tableRule name="USER" schema="mydb" defaultPools="w1,w2">
+     		<rule name="rule1" ruleResult="POOLNAME">
+                   <parameters>UID</parameters>
+                   <expression><![CDATA[
+                           var hashid = abs(hash(UID)) % 16;
+                           case  hashid  	when range(0,8,1,1)  then (isReadStatement ? 'r1' : 'w1');
+                                   			when range(9,15,1,1) then (isReadStatement ? 'r2' : 'w2');
+                           END CASE;
+                   ]]></expression>
+           </rule>
+    </tableRule>
+	
+	<tableRule name="PRODUCT" schema="mydb" readPools="r1" writePools="w1"/>
+	
+	<!-- 
+	select /* @amoeba[isRead=false](select * from order where year=2012) */ * from order where uid=? limit 0,10
+	 -->
+	<tableRule name="ORDER" schema="mydb" readPools="r3" writePools="w3">
+     		<rule name="rule1" ruleResult="POOLNAME">
+                   <parameters>YEAR</parameters>
+                   <expression><![CDATA[
+                           case  YEAR  	when range(0,2010,1,1)  then (isReadStatement ? 'r1' : 'w1');
+                                   		when range(2010,2012,0,0) then (isReadStatement ? 'r2' : 'w2');
+                                   		else  (isReadStatement ? 'r3' : 'w3')
+                           END CASE;
+                   ]]></expression>
+           </rule>
+    </tableRule>
+     		
+</amoeba:rule>

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/994/trunk/amoeba-mysql/src/java.test/com/meidusa/amoeba/mysql/test/parser
+END
+XmlToSqlList.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/961/trunk/amoeba-mysql/src/java.test/com/meidusa/amoeba/mysql/test/parser/XmlToSqlList.java
+END
+MysqlParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/989/trunk/amoeba-mysql/src/java.test/com/meidusa/amoeba/mysql/test/parser/MysqlParserTest.java
+END
+sql.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/994/trunk/amoeba-mysql/src/java.test/com/meidusa/amoeba/mysql/test/parser/sql.xml
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/913/trunk/build/build-manager/lib
+END
+core-3.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/913/trunk/build/build-manager/lib/core-3.1.1.jar
+END
+ant-1.6.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/913/trunk/build/build-manager/lib/ant-1.6.5.jar
+END
+jsp-2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/913/trunk/build/build-manager/lib/jsp-2.1.jar
+END
+jetty-util-6.1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/913/trunk/build/build-manager/lib/jetty-util-6.1.3.jar
+END
+servlet-api-2.5-6.1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/913/trunk/build/build-manager/lib/servlet-api-2.5-6.1.3.jar
+END
+jsp-api-2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/913/trunk/build/build-manager/lib/jsp-api-2.1.jar
+END
+jetty-6.1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/913/trunk/build/build-manager/lib/jetty-6.1.3.jar
+END

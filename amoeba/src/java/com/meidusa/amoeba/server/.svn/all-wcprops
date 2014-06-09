@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/server
+END
+AuthenticateFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/server/AuthenticateFilter.java
+END
+DummyAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/server/DummyAuthenticator.java
+END
+MultipleServerPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/server/MultipleServerPool.java
+END
+AmoebaProxyServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/server/AmoebaProxyServer.java
+END
+IPAccessController.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/server/IPAccessController.java
+END

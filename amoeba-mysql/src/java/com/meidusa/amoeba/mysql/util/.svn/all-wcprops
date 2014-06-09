@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/util
+END
+CharsetMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/913/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/util/CharsetMapping.java
+END
+SingleByteCharsetConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/util/SingleByteCharsetConverter.java
+END
+Security.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/util/Security.java
+END
+MysqlStringUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/913/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/util/MysqlStringUtil.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/util/Util.java
+END

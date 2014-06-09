@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java/org/bson/types
+END
+BasicBSONList.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java/org/bson/types/BasicBSONList.java
+END
+OrderedSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java/org/bson/types/OrderedSet.java
+END
+ObjectId.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java/org/bson/types/ObjectId.java
+END
+Binary.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java/org/bson/types/Binary.java
+END
+Symbol.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java/org/bson/types/Symbol.java
+END
+BSONTimestamp.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java/org/bson/types/BSONTimestamp.java
+END
+CodeWScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java/org/bson/types/CodeWScope.java
+END

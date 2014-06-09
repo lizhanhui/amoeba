@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/974/trunk/amoeba/src/java/com/meidusa/amoeba/parser/statement
+END
+CallStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/974/trunk/amoeba/src/java/com/meidusa/amoeba/parser/statement/CallStatement.java
+END
+DMLStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/974/trunk/amoeba/src/java/com/meidusa/amoeba/parser/statement/DMLStatement.java
+END
+Statement.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/parser/statement/Statement.java
+END
+SelectStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/965/trunk/amoeba/src/java/com/meidusa/amoeba/parser/statement/SelectStatement.java
+END
+ShowStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/parser/statement/ShowStatement.java
+END
+StartTansactionStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/parser/statement/StartTansactionStatement.java
+END
+DeleteStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/965/trunk/amoeba/src/java/com/meidusa/amoeba/parser/statement/DeleteStatement.java
+END
+UpdateStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/965/trunk/amoeba/src/java/com/meidusa/amoeba/parser/statement/UpdateStatement.java
+END
+AbstractStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/parser/statement/AbstractStatement.java
+END
+PropertyStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/parser/statement/PropertyStatement.java
+END
+InsertStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/965/trunk/amoeba/src/java/com/meidusa/amoeba/parser/statement/InsertStatement.java
+END
+DataBaseStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/973/trunk/amoeba/src/java/com/meidusa/amoeba/parser/statement/DataBaseStatement.java
+END
+CommitStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/parser/statement/CommitStatement.java
+END
+RollbackStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/parser/statement/RollbackStatement.java
+END

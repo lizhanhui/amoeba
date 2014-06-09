@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/913/trunk/amoeba-manager/src/java/com/meidusa/amoeba/manager/net/packet
+END
+OKPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/913/trunk/amoeba-manager/src/java/com/meidusa/amoeba/manager/net/packet/OKPacket.java
+END
+PingPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/913/trunk/amoeba-manager/src/java/com/meidusa/amoeba/manager/net/packet/PingPacket.java
+END
+ManagerAbstractPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/913/trunk/amoeba-manager/src/java/com/meidusa/amoeba/manager/net/packet/ManagerAbstractPacket.java
+END
+PongPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/913/trunk/amoeba-manager/src/java/com/meidusa/amoeba/manager/net/packet/PongPacket.java
+END
+ManagerPacketBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/913/trunk/amoeba-manager/src/java/com/meidusa/amoeba/manager/net/packet/ManagerPacketBuffer.java
+END
+ObjectPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/913/trunk/amoeba-manager/src/java/com/meidusa/amoeba/manager/net/packet/ObjectPacket.java
+END

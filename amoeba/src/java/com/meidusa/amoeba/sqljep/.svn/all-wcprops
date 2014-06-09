@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/967/trunk/amoeba/src/java/com/meidusa/amoeba/sqljep
+END
+SimpleNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/sqljep/SimpleNode.java
+END
+TokenMgrError.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/sqljep/TokenMgrError.java
+END
+ASTConstant.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/sqljep/ASTConstant.java
+END
+ParserDumpVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/sqljep/ParserDumpVisitor.java
+END
+Parser.jjt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/934/trunk/amoeba/src/java/com/meidusa/amoeba/sqljep/Parser.jjt
+END
+ASTStart.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/sqljep/ASTStart.java
+END
+JJTParserState.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/sqljep/JJTParserState.java
+END
+ASTFunNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/sqljep/ASTFunNode.java
+END
+ASTVarNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/sqljep/ASTVarNode.java
+END
+RowJEP.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/sqljep/RowJEP.java
+END
+ParserTreeConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/sqljep/ParserTreeConstants.java
+END
+BaseJEP.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/sqljep/BaseJEP.java
+END
+ParserVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/sqljep/ParserVisitor.java
+END
+Parser.jj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/967/trunk/amoeba/src/java/com/meidusa/amoeba/sqljep/Parser.jj
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/sqljep/Token.java
+END
+JepRuntime.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/sqljep/JepRuntime.java
+END
+ParserDumpColumns.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/sqljep/ParserDumpColumns.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/sqljep/Main.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/sqljep/Node.java
+END
+ASTArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/sqljep/ASTArray.java
+END
+ParserTokenManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/967/trunk/amoeba/src/java/com/meidusa/amoeba/sqljep/ParserTokenManager.java
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/sqljep/ParseException.java
+END
+ResultSetJEP.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/sqljep/ResultSetJEP.java
+END
+ParserConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/967/trunk/amoeba/src/java/com/meidusa/amoeba/sqljep/ParserConstants.java
+END
+JavaCharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/sqljep/JavaCharStream.java
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/sqljep/Parser.java
+END

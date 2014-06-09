@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java/org/bson
+END
+BasicBSONCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java/org/bson/BasicBSONCallback.java
+END
+BSONEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java/org/bson/BSONEncoder.java
+END
+BSON.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java/org/bson/BSON.java
+END
+Transformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java/org/bson/Transformer.java
+END
+BasicDBList.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java/org/bson/BasicDBList.java
+END
+JSONCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java/org/bson/JSONCallback.java
+END
+BSONDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java/org/bson/BSONDecoder.java
+END
+BSONObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java/org/bson/BSONObject.java
+END
+JSON.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java/org/bson/JSON.java
+END
+BasicBSONObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java/org/bson/BasicBSONObject.java
+END
+DBObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java/org/bson/DBObject.java
+END
+BasicDBObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java/org/bson/BasicDBObject.java
+END
+BSONCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java/org/bson/BSONCallback.java
+END

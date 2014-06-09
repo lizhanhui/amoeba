@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/993/trunk/amoeba/src/java/com/meidusa/amoeba/net/packet
+END
+PacketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/net/packet/PacketFactory.java
+END
+PacketBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/net/packet/PacketBuffer.java
+END
+AbstractPacketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/net/packet/AbstractPacketFactory.java
+END
+AbstractPacketBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/993/trunk/amoeba/src/java/com/meidusa/amoeba/net/packet/AbstractPacketBuffer.java
+END
+Packet.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/net/packet/Packet.java
+END
+AbstractPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/net/packet/AbstractPacket.java
+END

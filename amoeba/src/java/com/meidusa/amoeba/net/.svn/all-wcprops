@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/994/trunk/amoeba/src/java/com/meidusa/amoeba/net
+END
+Connection.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/994/trunk/amoeba/src/java/com/meidusa/amoeba/net/Connection.java
+END
+BackendConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/net/BackendConnectionFactory.java
+END
+IdleChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/net/IdleChecker.java
+END
+AuthingableConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/net/AuthingableConnection.java
+END
+PacketHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/net/PacketHandler.java
+END
+PoolableConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/net/PoolableConnectionFactory.java
+END
+ServerableConnectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/989/trunk/amoeba/src/java/com/meidusa/amoeba/net/ServerableConnectionManager.java
+END
+MultiConnectionManagerWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/net/MultiConnectionManagerWrapper.java
+END
+Sessionable.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/net/Sessionable.java
+END
+ConnectionObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/net/ConnectionObserver.java
+END
+SocketChannelFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/net/SocketChannelFactory.java
+END
+Authenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/net/Authenticator.java
+END
+AuthResponseData.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/net/AuthResponseData.java
+END
+AbstractConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/net/AbstractConnectionFactory.java
+END
+MessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/net/MessageHandler.java
+END
+DatabaseConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/net/DatabaseConnection.java
+END
+NetEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/net/NetEventHandler.java
+END
+SessionMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/net/SessionMessageHandler.java
+END
+ConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/net/ConnectionFactory.java
+END
+FrontendConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/net/FrontendConnectionFactory.java
+END
+ConnectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/net/ConnectionManager.java
+END
+AuthingableConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/939/trunk/amoeba/src/java/com/meidusa/amoeba/net/AuthingableConnectionFactory.java
+END
+AuthingableConnectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/net/AuthingableConnectionManager.java
+END

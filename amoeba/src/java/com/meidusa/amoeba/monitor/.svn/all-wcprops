@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/994/trunk/amoeba/src/java/com/meidusa/amoeba/monitor
+END
+MonitorConstant.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/monitor/MonitorConstant.java
+END
+ShutdownClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/994/trunk/amoeba/src/java/com/meidusa/amoeba/monitor/ShutdownClient.java
+END
+MonitorServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/monitor/MonitorServer.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/monitor/Command.java
+END

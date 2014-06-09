@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/913/trunk/amoeba-manager/src/java/com/meidusa/amoeba/manager/client
+END
+SingletoneRemoteConfigProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/913/trunk/amoeba-manager/src/java/com/meidusa/amoeba/manager/client/SingletoneRemoteConfigProvider.java
+END
+RemoteConfigMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/913/trunk/amoeba-manager/src/java/com/meidusa/amoeba/manager/client/RemoteConfigMessageHandler.java
+END
+DBServerConfigRemoteLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/913/trunk/amoeba-manager/src/java/com/meidusa/amoeba/manager/client/DBServerConfigRemoteLoader.java
+END
+CallbackHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/913/trunk/amoeba-manager/src/java/com/meidusa/amoeba/manager/client/CallbackHandler.java
+END

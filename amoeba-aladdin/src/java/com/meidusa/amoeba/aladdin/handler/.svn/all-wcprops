@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/932/trunk/amoeba-aladdin/src/java/com/meidusa/amoeba/aladdin/handler
+END
+CommandMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/913/trunk/amoeba-aladdin/src/java/com/meidusa/amoeba/aladdin/handler/CommandMessageHandler.java
+END
+MysqlMessageHandlerRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/913/trunk/amoeba-aladdin/src/java/com/meidusa/amoeba/aladdin/handler/MysqlMessageHandlerRunner.java
+END
+PreparedStatmentMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/913/trunk/amoeba-aladdin/src/java/com/meidusa/amoeba/aladdin/handler/PreparedStatmentMessageHandler.java
+END
+StringTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/913/trunk/amoeba-aladdin/src/java/com/meidusa/amoeba/aladdin/handler/StringTypeHandler.java
+END
+MessageHandlerRunnerProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/913/trunk/amoeba-aladdin/src/java/com/meidusa/amoeba/aladdin/handler/MessageHandlerRunnerProvider.java
+END
+QueryCommandMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/913/trunk/amoeba-aladdin/src/java/com/meidusa/amoeba/aladdin/handler/QueryCommandMessageHandler.java
+END
+AladdinMessageDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/932/trunk/amoeba-aladdin/src/java/com/meidusa/amoeba/aladdin/handler/AladdinMessageDispatcher.java
+END
+PreparedStatmentExecuteMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/913/trunk/amoeba-aladdin/src/java/com/meidusa/amoeba/aladdin/handler/PreparedStatmentExecuteMessageHandler.java
+END
+QueryRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/913/trunk/amoeba-aladdin/src/java/com/meidusa/amoeba/aladdin/handler/QueryRunnable.java
+END
+MessageHandlerRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/913/trunk/amoeba-aladdin/src/java/com/meidusa/amoeba/aladdin/handler/MessageHandlerRunner.java
+END

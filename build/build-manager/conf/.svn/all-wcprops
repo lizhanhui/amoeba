@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/913/trunk/build/build-manager/conf
+END
+webdefault.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/913/trunk/build/build-manager/conf/webdefault.xml
+END
+realm.properties
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/913/trunk/build/build-manager/conf/realm.properties
+END
+jetty.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/913/trunk/build/build-manager/conf/jetty.xml
+END

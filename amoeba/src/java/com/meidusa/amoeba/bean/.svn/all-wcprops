@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/bean
+END
+PureJavaReflectionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/bean/PureJavaReflectionProvider.java
+END
+ReflectionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/bean/ReflectionProvider.java
+END
+ObjectAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/bean/ObjectAccessException.java
+END
+FieldDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/bean/FieldDictionary.java
+END
+OrderRetainingMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/bean/OrderRetainingMap.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/994/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net
+END
+MysqlServerConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/985/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net/MysqlServerConnectionFactory.java
+END
+CommandListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net/CommandListener.java
+END
+MysqlClientConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net/MysqlClientConnection.java
+END
+MysqlConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net/MysqlConnection.java
+END
+CommandInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net/CommandInfo.java
+END
+MysqlClientConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net/MysqlClientConnectionFactory.java
+END
+MysqlServerConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/977/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/net/MysqlServerConnection.java
+END

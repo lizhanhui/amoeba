@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/936/trunk/build/build-mysql/benchmark
+END
+context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/936/trunk/build/build-mysql/benchmark/context.xml
+END
+query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/936/trunk/build/build-mysql/benchmark/query.xml
+END
+objectMap.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/936/trunk/build/build-mysql/benchmark/objectMap.dtd
+END

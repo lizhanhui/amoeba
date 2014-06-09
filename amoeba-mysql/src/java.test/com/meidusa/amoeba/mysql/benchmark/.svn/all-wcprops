@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/949/trunk/amoeba-mysql/src/java.test/com/meidusa/amoeba/mysql/benchmark
+END
+MysqlBenchmarkClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/941/trunk/amoeba-mysql/src/java.test/com/meidusa/amoeba/mysql/benchmark/MysqlBenchmarkClient.java
+END
+MysqlBenchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/949/trunk/amoeba-mysql/src/java.test/com/meidusa/amoeba/mysql/benchmark/MysqlBenchmark.java
+END

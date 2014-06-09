@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/913/trunk/amoeba-memcached/src/java/com/meidusa/amoeba/memcached/packet
+END
+AbstractMemcachedPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/913/trunk/amoeba-memcached/src/java/com/meidusa/amoeba/memcached/packet/AbstractMemcachedPacket.java
+END
+Extras.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/913/trunk/amoeba-memcached/src/java/com/meidusa/amoeba/memcached/packet/Extras.java
+END
+AbstractMemcachedPacketBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/913/trunk/amoeba-memcached/src/java/com/meidusa/amoeba/memcached/packet/AbstractMemcachedPacketBuffer.java
+END

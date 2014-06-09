@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java/org/bson/io
+END
+Bits.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java/org/bson/io/Bits.java
+END
+PoolOutputBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java/org/bson/io/PoolOutputBuffer.java
+END
+OutputBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java/org/bson/io/OutputBuffer.java
+END
+BasicOutputBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/913/trunk/amoeba-mongodb/src/java/org/bson/io/BasicOutputBuffer.java
+END

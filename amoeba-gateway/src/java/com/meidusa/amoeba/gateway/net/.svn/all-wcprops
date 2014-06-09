@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/913/trunk/amoeba-gateway/src/java/com/meidusa/amoeba/gateway/net
+END
+GatewayClientConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/913/trunk/amoeba-gateway/src/java/com/meidusa/amoeba/gateway/net/GatewayClientConnection.java
+END
+GatewayConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/913/trunk/amoeba-gateway/src/java/com/meidusa/amoeba/gateway/net/GatewayConnectionFactory.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/920/trunk/build/build-gateway/benchmark
+END
+find.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/913/trunk/build/build-gateway/benchmark/find.xml
+END
+context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/920/trunk/build/build-gateway/benchmark/context.xml
+END
+objectMap.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/915/trunk/build/build-gateway/benchmark/objectMap.dtd
+END

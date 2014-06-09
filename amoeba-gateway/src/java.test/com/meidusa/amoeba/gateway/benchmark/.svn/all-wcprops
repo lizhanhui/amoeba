@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/937/trunk/amoeba-gateway/src/java.test/com/meidusa/amoeba/gateway/benchmark
+END
+find.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/913/trunk/amoeba-gateway/src/java.test/com/meidusa/amoeba/gateway/benchmark/find.xml
+END
+GatewayBenchmarkClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/937/trunk/amoeba-gateway/src/java.test/com/meidusa/amoeba/gateway/benchmark/GatewayBenchmarkClient.java
+END
+GatewayBenchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/935/trunk/amoeba-gateway/src/java.test/com/meidusa/amoeba/gateway/benchmark/GatewayBenchmark.java
+END

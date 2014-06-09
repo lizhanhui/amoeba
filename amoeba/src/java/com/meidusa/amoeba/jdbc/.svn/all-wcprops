@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/jdbc
+END
+PoolableJdbcConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/jdbc/PoolableJdbcConnection.java
+END
+ConnectionWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/jdbc/ConnectionWrapper.java
+END
+StringCharsetIOHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/jdbc/StringCharsetIOHandler.java
+END
+ResultSetHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/jdbc/ResultSetHandler.java
+END
+JdbcConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/jdbc/JdbcConnectionFactory.java
+END
+DriverWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/jdbc/DriverWrapper.java
+END

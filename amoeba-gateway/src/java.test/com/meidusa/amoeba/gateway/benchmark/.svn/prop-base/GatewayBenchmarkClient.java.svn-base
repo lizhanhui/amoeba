@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 538
+/branches/struct_2010-05-24/amoeba-gateway/src/java.test/com/meidusa/amoeba/gateway/benchmark/GatewayBenchmarkClientConnection.java:647-669
+/branches/struct_2010-06-10/amoeba-gateway/src/java.test/com/meidusa/amoeba/gateway/benchmark/GatewayBenchmarkClientConnection.java:675-696
+/branches/struct_2010-11-22/amoeba-gateway/src/java.test/com/meidusa/amoeba/gateway/benchmark/GatewayBenchmarkClientConnection.java:895-909
+/trunk/amoeba-gateway/src/java.test/com/meidusa/amoeba/gateway/benchmark/GatewayBenchmarkClientConnection.java:907-910
+END

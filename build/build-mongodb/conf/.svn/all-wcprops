@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/913/trunk/build/build-mongodb/conf
+END
+function.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/913/trunk/build/build-mongodb/conf/function.dtd
+END
+access_list.conf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/913/trunk/build/build-mongodb/conf/access_list.conf
+END
+rule.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/913/trunk/build/build-mongodb/conf/rule.dtd
+END
+functionMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/913/trunk/build/build-mongodb/conf/functionMap.xml
+END
+amoeba.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/913/trunk/build/build-mongodb/conf/amoeba.xml
+END
+dbserver.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/913/trunk/build/build-mongodb/conf/dbserver.dtd
+END
+rule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/913/trunk/build/build-mongodb/conf/rule.xml
+END
+log4j.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/913/trunk/build/build-mongodb/conf/log4j.dtd
+END
+ruleFunctionMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/913/trunk/build/build-mongodb/conf/ruleFunctionMap.xml
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/913/trunk/build/build-mongodb/conf/log4j.xml
+END
+dbServers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/913/trunk/build/build-mongodb/conf/dbServers.xml
+END
+amoeba.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/913/trunk/build/build-mongodb/conf/amoeba.dtd
+END

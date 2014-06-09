@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/987/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/parser/sql
+END
+MysqlParserConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/987/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/parser/sql/MysqlParserConstants.java
+END
+MysqlParserTreeConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/913/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/parser/sql/MysqlParserTreeConstants.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/parser/sql/Token.java
+END
+TokenMgrError.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/parser/sql/TokenMgrError.java
+END
+MysqlParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/987/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/parser/sql/MysqlParser.java
+END
+SimpleCharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/parser/sql/SimpleCharStream.java
+END
+MysqlParser.jj
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/987/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/parser/sql/MysqlParser.jj
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/parser/sql/Node.java
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/953/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/parser/sql/ParseException.java
+END
+JJTMysqlParserState.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/913/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/parser/sql/JJTMysqlParserState.java
+END
+MysqlParserTokenManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/987/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/parser/sql/MysqlParserTokenManager.java
+END

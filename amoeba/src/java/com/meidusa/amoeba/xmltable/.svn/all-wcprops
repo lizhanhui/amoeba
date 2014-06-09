@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/xmltable
+END
+XmlTableLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/xmltable/XmlTableLoader.java
+END
+Condition.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/xmltable/Condition.java
+END
+XmlTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/xmltable/XmlTable.java
+END
+XmlRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/xmltable/XmlRow.java
+END
+XmlColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/xmltable/XmlColumn.java
+END

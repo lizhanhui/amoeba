@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/943/trunk/build/build-aladdin/conf
+END
+function.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/931/trunk/build/build-aladdin/conf/function.dtd
+END
+access_list.conf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/913/trunk/build/build-aladdin/conf/access_list.conf
+END
+rule.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/931/trunk/build/build-aladdin/conf/rule.dtd
+END
+table.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/913/trunk/build/build-aladdin/conf/table.dtd
+END
+functionMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/913/trunk/build/build-aladdin/conf/functionMap.xml
+END
+amoeba.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/943/trunk/build/build-aladdin/conf/amoeba.xml
+END
+dbserver.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/931/trunk/build/build-aladdin/conf/dbserver.dtd
+END
+table.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/913/trunk/build/build-aladdin/conf/table.xml
+END
+rule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/943/trunk/build/build-aladdin/conf/rule.xml
+END
+log4j.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/913/trunk/build/build-aladdin/conf/log4j.dtd
+END
+ruleFunctionMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/913/trunk/build/build-aladdin/conf/ruleFunctionMap.xml
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/943/trunk/build/build-aladdin/conf/log4j.xml
+END
+dbServers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/931/trunk/build/build-aladdin/conf/dbServers.xml
+END
+amoeba.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/913/trunk/build/build-aladdin/conf/amoeba.dtd
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/987/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/parser
+END
+MysqlParser.jjt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/980/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/parser/MysqlParser.jjt
+END
+MysqlQueryRouter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/969/trunk/amoeba-mysql/src/java/com/meidusa/amoeba/mysql/parser/MysqlQueryRouter.java
+END

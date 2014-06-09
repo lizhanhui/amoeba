@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/config
+END
+BeanObjectEntityConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/config/BeanObjectEntityConfig.java
+END
+DBServerConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/config/DBServerConfig.java
+END
+ConfigEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/config/ConfigEntity.java
+END
+ConfigUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/config/ConfigUtil.java
+END
+ConfigurationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/config/ConfigurationException.java
+END
+PropertyTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/config/PropertyTransfer.java
+END
+ParameterMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/config/ParameterMapping.java
+END
+DocumentUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/config/DocumentUtil.java
+END
+ProxyServerConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/config/ProxyServerConfig.java
+END

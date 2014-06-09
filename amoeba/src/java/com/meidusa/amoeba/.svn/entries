@@ -1,0 +1,82 @@
+10
+
+dir
+997
+http://amoeba.googlecode.com/svn/trunk/amoeba/src/java/com/meidusa/amoeba
+http://amoeba.googlecode.com/svn
+
+
+
+2012-08-29T02:58:56.867785Z
+994
+structchen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+f2fdb6c0-bc52-0410-afb6-0b4880eef548
+
+log4j
+dir
+
+runtime
+dir
+
+context
+dir
+
+net
+dir
+
+monitor
+dir
+
+parser
+dir
+
+route
+dir
+
+sqljep
+dir
+
+heartbeat
+dir
+
+xml
+dir
+
+service
+dir
+
+jdbc
+dir
+
+bean
+dir
+
+config
+dir
+
+server
+dir
+
+xmltable
+dir
+
+data
+dir
+
+util
+dir
+

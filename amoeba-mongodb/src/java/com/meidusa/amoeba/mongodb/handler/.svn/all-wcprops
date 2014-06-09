@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/973/trunk/amoeba-mongodb/src/java/com/meidusa/amoeba/mongodb/handler
+END
+AbstractSessionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/953/trunk/amoeba-mongodb/src/java/com/meidusa/amoeba/mongodb/handler/AbstractSessionHandler.java
+END
+DeleteMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/953/trunk/amoeba-mongodb/src/java/com/meidusa/amoeba/mongodb/handler/DeleteMessageHandler.java
+END
+GetMoreMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/953/trunk/amoeba-mongodb/src/java/com/meidusa/amoeba/mongodb/handler/GetMoreMessageHandler.java
+END
+UpdateMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/953/trunk/amoeba-mongodb/src/java/com/meidusa/amoeba/mongodb/handler/UpdateMessageHandler.java
+END
+CursorCloseMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/953/trunk/amoeba-mongodb/src/java/com/meidusa/amoeba/mongodb/handler/CursorCloseMessageHandler.java
+END
+InsertMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/953/trunk/amoeba-mongodb/src/java/com/meidusa/amoeba/mongodb/handler/InsertMessageHandler.java
+END
+QueryMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/953/trunk/amoeba-mongodb/src/java/com/meidusa/amoeba/mongodb/handler/QueryMessageHandler.java
+END
+ModifyOperateMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/953/trunk/amoeba-mongodb/src/java/com/meidusa/amoeba/mongodb/handler/ModifyOperateMessageHandler.java
+END
+AmoebaSequenceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/973/trunk/amoeba-mongodb/src/java/com/meidusa/amoeba/mongodb/handler/AmoebaSequenceHandler.java
+END
+KillCursorMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/953/trunk/amoeba-mongodb/src/java/com/meidusa/amoeba/mongodb/handler/KillCursorMessageHandler.java
+END

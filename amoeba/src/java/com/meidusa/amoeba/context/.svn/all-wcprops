@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/context
+END
+ContextChangedListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/context/ContextChangedListener.java
+END
+RuntimeContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/context/RuntimeContext.java
+END
+DBServerConfigLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/context/DBServerConfigLoader.java
+END
+DBServerConfigFileLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/913/trunk/amoeba/src/java/com/meidusa/amoeba/context/DBServerConfigFileLoader.java
+END
+ProxyRuntimeContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/context/ProxyRuntimeContext.java
+END

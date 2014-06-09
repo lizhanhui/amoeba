@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/parser/dbobject
+END
+Schema.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/parser/dbobject/Schema.java
+END
+Table.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/parser/dbobject/Table.java
+END
+DBObjectBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/parser/dbobject/DBObjectBase.java
+END
+Column.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/953/trunk/amoeba/src/java/com/meidusa/amoeba/parser/dbobject/Column.java
+END

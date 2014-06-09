@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 386
+/branches/struct_2010-05-24/amoeba/src/java/com/meidusa/amoeba/bean/shutdown/ShutdownClient.java:647-669
+/branches/struct_2010-06-10/amoeba/src/java/com/meidusa/amoeba/bean/shutdown/ShutdownClient.java:675-696
+/branches/struct_2010-11-22/amoeba/src/java/com/meidusa/amoeba/monitor/ShutdownClient.java:895-909
+/trunk/amoeba/src/java/com/meidusa/amoeba/monitor/ShutdownClient.java:907-910
+END
